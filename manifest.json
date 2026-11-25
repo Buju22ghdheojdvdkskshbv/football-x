@@ -1,0 +1,10 @@
+{
+  "name": "FOOTBALL X",
+  "short_name": "FOOTBALL X",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d19",
+  "theme_color": "#080d19",
+  "description": "Your world of football",
+  "icons": []
+}
